@@ -1,0 +1,34 @@
+.head_left .h_subTitle{
+    background: #FFEEDE;
+    color: #FB9431;
+    font-weight: bold;
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+.h_title h1{
+    font-size: 50px;
+}
+.contact_btn{
+    border:1px solid #fb1c15 !important;
+    background-color: transparent !important;
+    color: #fb1c15 !important; 
+    font-weight: bold !important;
+    text-transform: capitalize;
+}
+.head_right .imageContainer{
+    width: 100%;
+    height: 100%;
+}
+.imageContainer .head_rightImg{
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+}
+.curve{
+    width: 8rem;
+    height: 100%;
+    object-fit: cover;
+}
+.starr{
+    color: #FB9431;
+}

@@ -1,0 +1,12 @@
+.bg_login {
+    background: #fb1c15;
+    background: linear-gradient(0deg, rgba(251,28,21,1) 0%, rgba(255,106,100,1) 35%);
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
